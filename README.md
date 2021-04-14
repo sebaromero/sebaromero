@@ -2,10 +2,16 @@
 I'm a software developer currently working as frontend web.
 
 <a href="https://www.linkedin.com/in/romero-seba/">
-<img align="left" alt="Sebastian Romero LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Sebastian Romero LinkedIn" width="22px" src="https://icongr.am/simple/linkedin.svg?size=128&color=70c8ff&colored=false" />
 </a>
 <a href="https://www.instagram.com/sebandromero/">
-<img align="left" alt="Sebastian Romero Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+<img align="left" alt="Sebastian Romero Instagram" width="22px" src="https://icongr.am/simple/instagram.svg?size=128&color=70c8ff&colored=false" />
+</a>
+<a href="mailto:romeroseba95@gmail.com">
+<img align="left" alt="Sebastian Romero Gmail" width="22px" src="https://icongr.am/simple/gmail.svg?size=128&color=70c8ff&colored=false" />
+</a>
+<a href="mailto:romeroseba95@gmail.com">
+<img align="left" alt="Sebastian Romero Discord" width="20px" src="https://icongr.am/simple/discord.svg?size=128&color=70c8ff&colored=false" />
 </a>
 
 <br/>
