@@ -1,4 +1,4 @@
-## 👋 HelloWorld, I’m Seba!
+## 👋 Hello World, I’m Seba!
 I'm a software developer currently working as frontend web.
 
 <a href="https://www.linkedin.com/in/romero-seba/">
