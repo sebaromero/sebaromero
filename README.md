@@ -10,7 +10,7 @@ I'm a software developer currently working as frontend web.
 <a href="mailto:romeroseba95@gmail.com">
 <img align="left" alt="Sebastian Romero Gmail" width="22px" src="https://icongr.am/simple/gmail.svg?size=128&color=70c8ff&colored=false" />
 </a>
-<a href="https://discord.com/invite/SebaRomero#5023SebaRomero#5023">
+<a href="https://discord.com/invite/SebaRomero#5023">
 <img align="left" alt="Sebastian Romero Discord" width="20px" src="https://icongr.am/simple/discord.svg?size=128&color=70c8ff&colored=false" />
 </a>
 
