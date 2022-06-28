@@ -17,7 +17,7 @@ I'm a software developer currently working as frontend web.
 <br/>
 
 ## About me
-- 💻 I'm currently working in [ITCI](https://www.linkedin.com/company/hi-itci/)
+- 💻 I'm currently working as Frontend Team Leader in [Gloouds](https://www.gloouds.com/)
 - ⚛️ I’m currently working with [React](https://reactjs.org/)
 
 ## Languages and Tools
