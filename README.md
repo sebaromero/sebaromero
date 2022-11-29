@@ -21,7 +21,7 @@ I'm a software developer currently working as frontend web.
 - ⚛️ I’m currently working with [React](https://reactjs.org/)
 
 ## Languages and Tools
-<img height="20" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&show_icons=true&theme=light)
