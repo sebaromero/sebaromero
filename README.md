@@ -1,7 +1,7 @@
 ## 👋 Hello World, I’m Seba!
 I'm a software developer currently working as frontend web.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge)
 
 
 <a href="https://www.linkedin.com/in/romero-seba/">
