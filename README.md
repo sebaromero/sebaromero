@@ -47,7 +47,7 @@ I'm a software developer currently working as frontend web.
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="height: 200px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="height: 200px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&show_icons=true&theme=codeSTACKr&border_radius=0"   style="height: 200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=codeSTACKr&border_radius=0" style="height: 200px" />
   </div>
 </div>
