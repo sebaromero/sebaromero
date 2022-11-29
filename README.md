@@ -40,7 +40,7 @@
 ##
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&show_icons=true&layout=compact&theme=transparent&hide_border=true"   style="height: 150px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=transparent&hide_border=true" style="height: 150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&show_icons=true&layout=compact&theme=transparent&hide_border=true"   style="height: 180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=transparent&hide_border=true" style="height: 180px" />
   </div>
 </div>
