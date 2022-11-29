@@ -3,6 +3,9 @@
   <div style="display: flex;">
      <img src="https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge"/>
   </div>
+    <div style="display: flex;">
+     <img src="https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge"/>
+  </div>
 </div>
 
 <div align="center">
