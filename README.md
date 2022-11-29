@@ -3,10 +3,13 @@
   <div style="display: flex;">
      <img src="https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge"/>
   </div>
-   <div style="display: flex;">
-      <img align="left" alt="Sebastian Romero LinkedIn" width="22px" src="https://icongr.am/simple/linkedin.svg?size=128&color=70c8ff&colored=false" />
-      <img align="left" alt="Sebastian Romero Gmail" width="22px" src="https://icongr.am/simple/gmail.svg?size=128&color=70c8ff&colored=false" />
-   </div>
+</div>
+
+<div align="center">
+ <div style="display: flex;">
+   <img align="left" alt="Sebastian Romero LinkedIn" width="22px" src="https://icongr.am/simple/linkedin.svg?size=128&color=70c8ff&colored=false" />
+   <img align="left" alt="Sebastian Romero Gmail" width="22px" src="https://icongr.am/simple/gmail.svg?size=128&color=70c8ff&colored=false" />
+ </div>
 </div>
 
 ## 
