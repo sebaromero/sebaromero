@@ -1,6 +1,8 @@
 ## 👋 Hello World, I’m Seba!
 I'm a software developer currently working as frontend web.
 
+![](https://komarev.com/ghpvc/?username=sebaromero&style=flat-square)
+
 <a href="https://www.linkedin.com/in/romero-seba/">
 <img align="left" alt="Sebastian Romero LinkedIn" width="22px" src="https://icongr.am/simple/linkedin.svg?size=128&color=70c8ff&colored=false" />
 </a>
