@@ -47,7 +47,7 @@ I'm a software developer currently working as frontend web.
 </div>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&theme=codeSTACKr&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&theme=transparent&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![Seba's github stats](https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=codeSTACKr&border_radius=0)
 
