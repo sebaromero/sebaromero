@@ -4,8 +4,12 @@
      <img src="https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge"/>
   </div>
     <div style="display: flex;">
-     <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     <a href="mailto:romeroseba95@gmail.com">
+       <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+     </a>
+     <a href="https://www.linkedin.com/in/romero-seba">
+       <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     </a>
   </div>
 </div>
 
