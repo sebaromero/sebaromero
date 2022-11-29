@@ -3,7 +3,6 @@ I'm a software developer currently working as frontend web.
 
 ![](https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge)
 
-
 <a href="https://www.linkedin.com/in/romero-seba/">
 <img align="left" alt="Sebastian Romero LinkedIn" width="22px" src="https://icongr.am/simple/linkedin.svg?size=128&color=70c8ff&colored=false" />
 </a>
@@ -13,11 +12,7 @@ I'm a software developer currently working as frontend web.
 
 <br/>
 
-## About me
-- 💻 I'm currently working as Frontend Team Leader in [Gloouds](https://www.gloouds.com/)
-- ⚛️ I’m currently working with [React](https://reactjs.org/)
-
-## Languages and Tools
+## 
 <div display="flex">
   <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
