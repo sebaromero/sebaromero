@@ -41,13 +41,9 @@ I'm a software developer currently working as frontend web.
 </div>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&theme=codeSTACKr&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-![Seba's github stats](https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=codeSTACKr&border_radius=0)
-
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&show_icons=true&theme=codeSTACKr&border_radius=0"   style="height: 200px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=codeSTACKr&border_radius=0" style="height: 200px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaromero&layout=compact&show_icons=true&theme=transparent&hide_border=true"   style="height: 200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sebaromero&show_icons=true&theme=transparent&hide_border=true" style="height: 200px" />
   </div>
 </div>
