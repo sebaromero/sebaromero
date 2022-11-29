@@ -1,5 +1,9 @@
 ## 👋 Hello World, I’m Seba!
-I'm a software developer currently working as frontend web.
+<div align="center">
+  <div style="display: flex;">
+     <img src="https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge"/>
+  </div>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=sebaromero&style=for-the-badge)
 
